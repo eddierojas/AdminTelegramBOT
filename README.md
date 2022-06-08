@@ -11,7 +11,19 @@
 <p>Ahora se procese a instalar la libreria que se va utilizar para este bot</p>
 
 ![screen logo](/imagen/imagen2.jpg)<br>
-<p>A continuacion se procede agegar una imange de perfil a nuestro bot</p>
+<p>A continuacion se procede agegar una imange de perfil a nuestro bot el IDE que se uso fue Pycharm este IDE nos permite instalar esta librearia poer medio de su terminal con el siguiente comando pip install telegram-api cada libreria se actualiza conforme a las aportaciones de la comunidad ya que es codigo libre se actualiza la libreria con el siguiente comando dentro de la termina pip install telegram-api --upgrade.</p>
+<p>A continuacion para aspectos tecnicos se instalo la libreria de telegraph la cual nos permite manejar una pagina html para para agregar el catalgo del producoto que se quiera promocionar como finalidad del proyecto es centrado al área de ecommerce.
+</p>
+
+![screen logo](/imagen/imagen9.jpg)<br>
+<p>Al darle click al boton catagolo nos direccionara a la pagina se ha creado por la libreria luego se procede a visualizar es aspecto de la pagina la cual es:
+</p>
+
+![screen logo](/imagen/imagen10.jpeg)
+
+<br>
+
+### Aspecto Visual del bot
 
 ![screen logo](/imagen/imagen3.jpg)<br>
 <p>En la cual accedenos a Botfahter en con el que ingresemos el comando /setuserpec en la cual nos permite hacer esos cambios</p>
@@ -23,5 +35,19 @@
 ![screen logo](/imagen/imagen5.jpg)<br>
 
 ### Enlace Repositorio Github
-### Enlace Youtube
+<p>A continuacion puede acceder a este enlace: </p>
+
+<https://github.com/eddierojas/AdminTelegramBOT.git>
+
+
+### Tareas asignadas en Slack
+<p>A cada integrande el grupo se le asigno una tarea en particulpar para el desarrollo de este proyecto</p>
+
+![screen logo](/imagen/imagen6.jpg)<br>
+
+![screen logo](/imagen/imagen7.jpg)<br>
+
 ### Integrantes:
+<p>Jason Daniel Guerra Gudiel          7690-12-69</p>
+<p>Gustavo Adolfo Ochoa Lobos          7690-18-4379</p>
+<p>Edilmer Josue Morales Rojas         7690-18-11159</p>
